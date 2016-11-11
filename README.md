@@ -11,4 +11,4 @@ A task system was created on this website which allowed team leads to create tas
 
 This was all managed with the login and privilage system, which was held on an cpanel server with MySQL installed on it. To sign up a user had to show up to one of our meetings and another user with sufficient privilages (an officer) could open the registration page to allow the user to sign up. This system was put in place so the club wouldn't have a members list overflowing with users who have not even shown upto a single meeting.
 
-Unfortunently, this system was put on the shelf due to the school adding a new requirement that all the clubs use Microsoft Projects to manage the clubs.
+Unfortunently, this system was put on the shelf due to the school adding a new requirement that all the clubs must use Microsoft Projects to manage themselves.
