@@ -1,0 +1,19 @@
+
+#infopage {
+	color:#CCC;
+ 	margin: 0;
+	width: 70%;
+	margin-top: -20px;
+	margin-bottom: 30px;
+	background-color: #231f20;
+	border-radius: 10px;
+	display: inline-block; 
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+#infopage img{
+	float:left;
+	margin: 10px;
+	max-width: 250px;
+	max-height: 250px
+}

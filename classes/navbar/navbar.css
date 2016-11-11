@@ -1,0 +1,108 @@
+
+#niurnavbar {
+
+}
+
+/*This is the navigation bar*/
+#niurnavbar ul {
+	list-style-type: none;
+	padding: 0;
+	text-align: left;
+	margin: 80px 10px;
+	background-color: #231f20;
+	border-radius: 10px;
+	height: 50px;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+#niurnavbar li {
+	float: right;
+}
+
+#niurnavbar icon {
+	margin: 10px;
+	padding-left:196px;
+	padding-bottom:187px;
+	background: url("../../logo.png") no-repeat;
+}
+/*This is for putting your mouse over a button*/
+#niurnavbar li a {
+	display: inline-block;
+	color: white;
+	font-style:"Helvetica Neue Light"
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#niurnavbar li a:hover {
+	background-color: #777;
+}
+
+#niurnavbar li a.current {
+	background-color: #14A;
+}
+#niurnavbar li a:hover.current {
+	background-color: #14A;
+}
+
+
+#niurnavbar li.login{
+	padding-left:200px;
+	float: left;
+	right: 100px;
+}
+
+#niurnavbar li.login a {
+	padding: 14px 50px;
+	width: 50px;
+	background-color: #1A4;
+}
+#niurnavbar li.login a:hover {
+	background-color: #1A4;
+}
+#niurnavbar footer {
+	color:#888; 
+	text-align: right;
+    clear: both;
+    position: relative;
+    height: 22px;
+	border-radius: 7px;
+	background-color: #231f20;
+	margin: 10px 10px;
+}
+
+
+#niurnavbar footer img{ 
+	float:right;
+	margin-right:10px;
+	margin-left:5px;
+	margin-top:1px;
+	width:70;
+	height:18
+	
+}
+#niurnavbar a{
+	color:inherit;
+	text-decoration: none;
+}
+
+#MeetingTimes {
+	float:right;
+	text-align: right;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+
+}
+#MeetingTimes h2 {
+	color:#FFF;
+	margin:0px;
+	margin: 0px;
+	padding-top:15px
+}
+#MeetingTimes h3 {
+	color:#CCC;
+	font-style: italic;
+	margin:0px;
+	margin-top:-20px;
+	padding: 0px;
+}

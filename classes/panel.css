@@ -1,0 +1,58 @@
+
+#niurpanel {
+
+}
+
+/*This is the navigation bar*/
+#niurpanel ul {
+	display: block;
+	list-style-type: none;
+	padding: 0px;
+	margin: 10px 32px 14px;
+	background-color: #231f20;
+	border-radius: 10px;
+	width: 150px;
+	float: left;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+#niurpanel li {
+	text-align: center;
+	float: center;
+}
+
+/*This is for putting your mouse over a button*/
+#niurpanel li a {
+	cursor:pointer;
+	display: block;
+	color: white;	
+	font-style:"Helvetica Neue Light"
+	text-align: center;
+	padding: 14px 16px;
+	width: 119px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+#niurpanel li a.current {
+}
+
+#niurpanel li a.current {
+	background-color: #14A;
+}
+#niurpanel li a:hover.current {
+	cursor:pointer;
+	background-color: #14A;
+}
+
+#niurpanel li a.button {
+	background-color: #1A4;
+}
+#niurpanel li a:hover.button {
+	cursor:pointer;
+	background-color: #1A4;
+}
+
+#niurpanel li a:hover {
+	cursor:pointer;
+	background-color: #777;
+}

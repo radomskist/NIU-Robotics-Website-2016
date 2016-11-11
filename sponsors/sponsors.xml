@@ -1,0 +1,23 @@
+<platinum>
+	<sponsor img="ideallogo.png" name="Ideal" website="http://www.idealindustries.com/" ></sponsor>
+	<sponsor img="solidworks.png" name="Solidworks" website="http://www.solidworks.com/" ></sponsor>
+
+</platinum>
+
+<gold>
+	<sponsor img="burgessnorton.png" name="Burgess-Norton" website="http://www.burgessnorton.com/"></sponsor>
+	<sponsor img="vicor.gif" name="Vicor" website="http://www.vicorpower.com/" ></sponsor>
+	<sponsor img="bosch_rexroth.png" name="Rexroth Bosch Group" website="https://www.boschrexroth.com/" ></sponsor>
+	<sponsor img="etas.jpg" name="ETAS" website="http://www.etas.com/en/" ></sponsor>
+</gold>
+
+<silver>
+
+
+</silver>
+
+<bronze>
+
+
+</bronze>
+

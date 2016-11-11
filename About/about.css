@@ -1,0 +1,61 @@
+#aboutback {
+	width:80%;
+	margin: 0 auto;
+	margin-top:0px;
+	padding: 0px;
+	border-radius: 10px;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	text-align:center;
+	background-color: #231f20;
+}
+
+#aboutback h1 {
+	font-size: 50px;
+	color:#FFF;
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+#aboutback h2 {
+	font-size: 30px;
+	color:#DDD;
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+#aboutback p {
+	font-size: 20px;
+	color:#AAA;
+	margin-top:0px;
+	padding-top	:0px;
+}
+
+#aboutback p a{
+	font-size: 20px;
+	color:#66A;
+	margin-top:0px;
+	padding-top	:0px;
+}
+
+#aboutback p a:visited{
+	font-size: 20px;
+	color:#337;
+	margin-top:0px;
+	padding-top	:0px;
+}
+#aboutback hr {
+	max-width:60%;
+}
+
+
+img.banner  {
+	align-items: center
+	text-align:center;
+	display: block;
+	border-radius: 10px;
+	width:80%;
+	padding:10px;
+	margin: 0 auto;
+	background-color: #000;
+}
+

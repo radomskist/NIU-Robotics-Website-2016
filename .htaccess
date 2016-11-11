@@ -1,0 +1,6 @@
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak)$">
+	Order Allow,Deny
+	Deny from all
+</FilesMatch>
+
+ErrorDocument 404 http://www.niurobotics.com/404.html

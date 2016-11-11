@@ -1,0 +1,34 @@
+#regback {
+	height:500px;
+	width:1000px;
+	margin: 0 auto;
+	padding: 0px;
+	border-radius: 10px;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	text-align:center;
+}
+
+#regback h2 {
+	margin-top:50px;
+	color:#AAA;
+}
+
+#regback input {
+	margin-top:10px;
+}
+#regback label {
+	margin-top:10px;
+}
+
+#regback button {
+	margin-top:10px;
+}
+
+
+#mainlogo {
+	height: 300px;
+	max-height: 250px;
+	max-width: 250px;
+	display: block-inline;
+	margin-left:20px;
+}
